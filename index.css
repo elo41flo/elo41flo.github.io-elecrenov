@@ -1,6 +1,5 @@
 body {
     background-image: url(img/fond.jpg);
-
 }
 
 h1 {
@@ -23,6 +22,15 @@ strong {
 p {
     color: white;
     text-align: center;
+    font-size: 20px;
+}
+
+footer {
+    background-color: orange;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    border-radius: 20px;
 }
 
 .bitcount-prop-single {
